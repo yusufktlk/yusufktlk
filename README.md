@@ -19,7 +19,7 @@
 <img src="react-svgrepo-com.svg" alt="react" width="40" height="40"/> </a> 
 </p>
 
-<h3> About me <h3/>
+## <picture><img src = "comment-svgrepo-com.svg" width = 50px></picture> **About me**
   
   - Management Information System Student
   - I am currently learning Web Development with ReactJS
