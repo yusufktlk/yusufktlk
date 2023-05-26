@@ -12,7 +12,9 @@
 <a href="https://medium.com/@yusufktlk" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="yusufktlk" height="30" width="40" /></a>
 </p>
  <br /><br />
+ 
 Languages and Tools:
+ <br />
 <p align="left">
 <img src="html-5-svgrepo-com.svg" alt="html5" width="40" height="40"/>
 <img src="css-3-svgrepo-com.svg" alt="css3" width="40" height="40"/> </a>
