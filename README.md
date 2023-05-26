@@ -10,7 +10,7 @@
 </p>
  
 Languages and Tools:
-<p align="left">
+<p align="left" padding=10px>
 <img src="html-5-svgrepo-com.svg" alt="html5" width="40" height="40"/>
 <img src="css-3-svgrepo-com.svg" alt="css3" width="40" height="40"/> </a>
 <img src="bootstrap-svgrepo-com.svg" alt="bootstrap" width="40" height="40"/> </a>
