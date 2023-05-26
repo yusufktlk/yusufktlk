@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Yusuf</h1>
 <h3 align="center">A passionate Frontend Developer</h3>
-
+<br />
 <hr>  
-<br /><br />
+<br />
 
 <h3>Connect with me <h3/>
 <p align="left">
