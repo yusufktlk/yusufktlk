@@ -11,7 +11,7 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="html-5-svgrepo-com" alt="html5" width="40" height="40"/>
-<img src="css-3-svgrepo-com" alt="css3" width="40" height="40"/> </a>
+<img src="css-3-svgrepo-com.svg" alt="css3" width="40" height="40"/> </a>
 <img src="bootstrap-svgrepo-com" alt="bootstrap" width="40" height="40"/> </a>
 <img src="tailwind-svgrepo-com" alt="tailwind" width="40" height="40"/> </a>
 <img src="js-svgrepo-com" alt="javascript" width="40" height="40"/> </a>
