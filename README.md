@@ -25,7 +25,7 @@ Languages and Tools:
 </p>
 <br />
 
-**About Me**
+About Me
   - I am currently learning Web Development with ReactJS.
   - Management Information Systems Student
   - Open to Intern or Job Opportunities
