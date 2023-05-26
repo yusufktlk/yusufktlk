@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Yusuf</h1>
 <h3 align="center">A passionate Frontend Developer</h3>
 
-<img src="comment-svgrepo-com.svg" width="20" height="20" /> Connect with me:
+<h3>Connect with me <h3/>
 <p align="left">
 <a href="https://twitter.com/yktlk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="yktlk" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/yusuf-kıtlık" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yusuf-kıtlık" height="30" width="40" /></a>
@@ -19,7 +19,7 @@
 <img src="react-svgrepo-com.svg" alt="react" width="40" height="40"/> </a> 
 </p>
 
-## <picture><img src = "comment-svgrepo-com.svg" width = 50px></picture> **About me**
+ **About me**
   
   - Management Information System Student
   - I am currently learning Web Development with ReactJS
