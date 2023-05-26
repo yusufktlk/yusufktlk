@@ -1,9 +1,8 @@
 <h1 align="center">Hi 👋, I'm Yusuf</h1>
 <h3 align="center">A passionate Frontend Developer</h3>
 
-
 <hr>  
-<br /><br /><br />
+<br /><br />
 
 <h3>Connect with me <h3/>
 <p align="left">
@@ -22,8 +21,9 @@ Languages and Tools:
 <img src="js-svgrepo-com.svg" alt="javascript" width="40" height="40"/> </a>
 <img src="react-svgrepo-com.svg" alt="react" width="40" height="40"/> </a> 
 </p>
-<br /><br /><br />
-About Me
+<br />
+
+**About Me**
   - I am currently learning Web Development with ReactJS.
   - Management Information Systems Student
   - Open to Intern or Job Opportunities
