@@ -6,6 +6,7 @@
 <a href="https://linkedin.com/in/yusuf-kıtlık" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yusuf-kıtlık" height="30" width="40" /></a>
 <a href="https://instagram.com/yusufktlk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="yusufktlk" height="30" width="40" /></a>
 <a href="https://medium.com/@yusufktlk" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="yusufktlk" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@yosefturk" target="_blank"><img align="center" src="https://www.svgrepo.com/show/13671/youtube.svg" alt="yusufktlk" height="30" width="40" /></a>
 </p>
  <br />
  
