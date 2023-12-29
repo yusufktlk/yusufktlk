@@ -1,27 +1,16 @@
-<h1 align="center">Hi 👋, I'm Yusuf</h1>
+# 💫 About Me:
+🔭 I’m currently working on Web Development<br>🤝 Open to Intern or Job Opportunities<br>🌱 I’m currently learning NextJS<br>⚡ Management Information Systems Student
 
-<h3>🌐 Socials: <h3/>
-<p align="left">
-<a href="https://twitter.com/yktlk" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="yktlk" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/yusuf-kıtlık" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yusuf-kıtlık" height="30" width="40" /></a>
-<a href="https://instagram.com/yusufktlk" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="yusufktlk" height="30" width="40" /></a>
-<a href="https://medium.com/@yusufktlk" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="yusufktlk" height="30" width="40" /></a>
-<a href="https://www.youtube.com/@yosefturk" target="_blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/YouTube_full-color_icon_%282017%29.svg/1024px-YouTube_full-color_icon_%282017%29.svg.png" alt="yusufktlk" height="30" width="40" /></a>
-</p>
- <br />
- 
-💻 Tech Stack:
- <br />
-<p align="left">
-<img src="html-5-svgrepo-com.svg" alt="html5" width="40" height="40"/>
-<img src="css-3-svgrepo-com.svg" alt="css3" width="40" height="40"/> </a>
-<img src="bootstrap-svgrepo-com.svg" alt="bootstrap" width="40" height="40"/> </a>
-<img src="tailwind-svgrepo-com.svg" alt="tailwind" width="40" height="40"/> </a>
-<img src="js-svgrepo-com.svg" alt="javascript" width="40" height="40"/> </a>
-<img src="react-svgrepo-com.svg" alt="react" width="40" height="40"/> </a> 
-<img src="https://raw.githubusercontent.com/creativetimofficial/public-assets/master/logos/nextjs.jpg" alt="react" width="40" height="40"/> </a> 
 
-💬 About Me:
-  - I am currently learning Web Development with ReactJS.
-  - Management Information Systems Student
-  - Open to Intern or Job Opportunities
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/yusuf-kitlik) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@yusufktlk) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/yktlk) 
+
+# 💻 Tech Stack:
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=yusufktlk&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=yusufktlk&theme=dark&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=yusufktlk&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+
+---
+[![](https://visitcount.itsvg.in/api?id=yusufktlk&icon=0&color=0)](https://visitcount.itsvg.in)
