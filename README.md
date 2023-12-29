@@ -1,5 +1,12 @@
-# Hi 👋 I'm Yusuf
-🔭 I'm interested in web development<br>🧠 I’m currently learning NextJS<br>⚡ Management Information Systems Student
+<h1>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+👋+I'm+Yusuf">
+  </a>
+</h1>
+
+* 🔭 I'm interested in Web Development<br>
+* 🧠 I’m currently learning NextJS<br>
+* ⚡ Management Information Systems Student
 
 
 ## 🌐 Socials:
