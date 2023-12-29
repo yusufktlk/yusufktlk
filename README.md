@@ -19,7 +19,7 @@
 <img src="tailwind-svgrepo-com.svg" alt="tailwind" width="40" height="40"/> </a>
 <img src="js-svgrepo-com.svg" alt="javascript" width="40" height="40"/> </a>
 <img src="react-svgrepo-com.svg" alt="react" width="40" height="40"/> </a> 
-<img src="https://www.svgrepo.com/show/378440/nextjs-fill.svg" alt="react" width="40" height="40"/> </a> 
+<img src="https://www.svgrepo.com/show/354112/nextjs.svg" alt="react" width="40" height="40"/> </a> 
 </p>
 <br />
 
