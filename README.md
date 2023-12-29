@@ -1,4 +1,4 @@
-# 💫 About Me:
+# Hi 👋 I'm Yusuf
 🔭 I’m currently working on Web Development<br>🤝 Open to Intern or Job Opportunities<br>🌱 I’m currently learning NextJS<br>⚡ Management Information Systems Student
 
 
