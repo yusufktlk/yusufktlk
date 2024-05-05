@@ -3,7 +3,7 @@
 </h1>
 
 * 🔭 I'm interested in Web Development<br>
-* 🧠 I’m currently learning NextJS<br>
+* 🧠 I’m currently learning Django<br>
 * ⚡ Management Information Systems Student
 
 
