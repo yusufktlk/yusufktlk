@@ -2,11 +2,6 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=21&duration=4000&pause=1000&color=35B6F1&background=26100800&random=false&width=435&height=40&lines=Hi%F0%9F%91%8B+I'm+Yusuf!;Frontend+Developer" alt="Typing SVG" /></a>
 </h1>
 
-* 🔭 I'm interested in Web Development<br>
-* 🧠 I’m currently learning Node.js<br>
-* ⚡ Management Information Systems Student
-
-
 ## 🌐 Socials:
 [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@yusufktlk) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/yusuf-kitlik)  [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/yktlk) 
 
